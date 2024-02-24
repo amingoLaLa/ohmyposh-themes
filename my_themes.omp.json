@@ -13,9 +13,9 @@
           "type": "os"
         },
         {
-          "background": "#ffff66",
-          "foreground": "#111111",
-          "style": "diamond",
+          "background": "#c4a000",
+          "foreground": "#000000",
+          "style": "powerline",
           "template": "\uf120 {{ .Name }}",
           "type": "shell"
         },
