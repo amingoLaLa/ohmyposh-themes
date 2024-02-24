@@ -13,6 +13,14 @@
           "type": "os"
         },
         {
+          "background": "#d3d7cf",
+          "foreground": "#000000",
+          "leading_diamond": "\u256d\u2500\ue0b2",
+          "style": "diamond",
+          "template": "{{.Shell}}",
+          "type": "text"
+        },
+        {s
           "background": "#3465a4",
           "foreground": "#e4e4e4",
           "powerline_symbol": "\ue0b0",
