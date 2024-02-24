@@ -15,7 +15,7 @@
         {
           "background": "#d3d7cf",
           "foreground": "#000000",
-          "leading_diamond": "\u256d\u2500\ue0b2",
+          "leading_diamond": "\ue0b2",
           "style": "diamond",
           "template": "\uf120 {{ .Name }}",
           "type": "shell"
