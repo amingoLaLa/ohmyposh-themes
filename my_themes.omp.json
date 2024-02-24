@@ -13,6 +13,13 @@
           "type": "os"
         },
         {
+          "background": "#d3d7cf",
+          "foreground": "#000000",
+          "style": "diamond",
+          "template": "\uf120 {{ .Name }}",
+          "type": "shell"
+        },
+        {
           "background": "#3465a4",
           "foreground": "#e4e4e4",
           "powerline_symbol": "\ue0b0",
